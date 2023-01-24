@@ -1,3 +1,4 @@
+#This is some new text written by Snoopy
 from __future__ import print_function
 import os
 import string
